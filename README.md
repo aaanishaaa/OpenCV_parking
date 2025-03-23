@@ -10,7 +10,7 @@ This project automatically detects and counts empty and occupied parking spaces 
    ```
 2. **Navigate to the cloned folder:**
    ```bash
-   cd car-parking-finder
+   cd opencv_parking
    ```
 3. **Upgrade `pip`:**
    ```bash
