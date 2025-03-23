@@ -1,4 +1,4 @@
-# Car Parking Detection
+# Open CV Car Parking Detection
 
 This project automatically detects and counts empty and occupied parking spaces in a parking lot using digital image processing techniques with OpenCV.
 
